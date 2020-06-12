@@ -1,0 +1,24 @@
+{
+  "name": "kjn-frame-print",
+  "version": "1.0.0",
+  "description": "Print a line of asterisks above and below your message.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjnorris1205/kjn-frame-print.git"
+  },
+  "keywords": [
+    "frame",
+    "print",
+    "asterisk"
+  ],
+  "author": "Kevin Norris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kjnorris1205/kjn-frame-print/issues"
+  },
+  "homepage": "https://github.com/kjnorris1205/kjn-frame-print#readme"
+}
